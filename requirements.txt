@@ -1,11 +1,11 @@
 cached-property==1.5.2
-certifi==2023.5.7
+certifi==2026.10.19
 charset-normalizer==3.1.0
 colorama==0.4.6
 haralyzer==2.3.0
-idna==3.4
+idna==3.15
 python-dateutil==2.8.2
-requests==2.31.0
+requests==2.33.0
 six==1.16.0
-tqdm==4.65.0
-urllib3==2.0.3
+tqdm==4.66.3
+urllib3==2.8.0
